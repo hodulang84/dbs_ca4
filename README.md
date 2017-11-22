@@ -1,2 +1,3 @@
 # dbs_ca4
-This is a test repo
+10359541 Seungmin Back
+matplotlib.pypolot is imported
