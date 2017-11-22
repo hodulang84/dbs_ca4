@@ -1,6 +1,6 @@
 import unittest
 
-from ca4_10359541_SeungminBack import read_file, get_commits, get_changedPaths
+from code_ca4 import read_file, get_commits, get_changedPaths
 
 class TestCommits(unittest.TestCase):
 
